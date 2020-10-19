@@ -1,6 +1,7 @@
-  body {background-color: #ffd31d;
+  body {
+      background-color: #ffd31d;
   }
-  hr{
+  hr {
       border-style: none;
       border-top-style: dotted;
       border-color: white;
