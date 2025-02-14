@@ -6,8 +6,9 @@
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
+     color: #B2A5FF;
+
 }
-  }
   hr {
       border-style: none;
       border-top-style: dotted;
@@ -16,5 +17,5 @@
       width: 15%;
   }
 h1,h2,h3 {
-    color: #B2A5FF;
+    color: #FFF2AF;
   }
